@@ -13,3 +13,7 @@ color:
 github: true
 layout_spectrum: 0.35157692548818886
 name: rohitverma
+purpose:
+  - type: contact
+    url: 'tel:9988844215'
+    label: Call 9988844215
