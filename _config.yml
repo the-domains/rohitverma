@@ -17,3 +17,6 @@ purpose:
   - type: contact
     url: 'tel:9988844215'
     label: Call 9988844215
+  - type: contact
+    url: 'mailto:rohitatiit@gmail.com'
+    label: Contact me
